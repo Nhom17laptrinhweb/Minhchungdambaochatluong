@@ -149,9 +149,9 @@ SELECT * from mucminhchung;
 			        <ul>
 			        <li data-jstree='{"icon":"glyphicon glyphicon-leaf"}'><a href="1doantruong.jsp">Người nhập:
 			      <c:out value="${row.nguoinhap}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">Mô tả: <c:out value="${row.mota}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">Người tạo: <c:out value="${row.nguoitao}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">File: <c:out value="${row.linkfile}"/></td></a></li>
+			          <li><a href="">Mô tả: <c:out value="${row.mota}"/></td></a></li>
+			          <li><a href="">Người tạo: <c:out value="${row.nguoitao}"/></td></a></li>
+			          <li><a href="">File: <c:out value="${row.linkfile}"/></td></a></li>
 			        </ul>
 			      </li>
 			      </c:when>
@@ -160,9 +160,9 @@ SELECT * from mucminhchung;
 			        <ul>
 			        <li data-jstree='{"icon":"glyphicon glyphicon-leaf"}'>Người nhập:
 			      <c:out value="${row.nguoinhap}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">Mô tả: <c:out value="${row.mota}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">Người tạo: <c:out value="${row.nguoitao}"/></td></a></li>
-			          <li><a href="1doantruong.jsp">File: <c:out value="${row.linkfile}"/></td></a></li>
+			          <li><a href="">Mô tả: <c:out value="${row.mota}"/></td></a></li>
+			          <li><a href="">Người tạo: <c:out value="${row.nguoitao}"/></td></a></li>
+			          <li><a href="">File: <c:out value="${row.linkfile}"/></td></a></li>
 			        </ul>
 			      </li>
 			      </c:otherwise>

@@ -54,26 +54,7 @@ $(document).ready(function(){
 					});
 					</script>
 
-					<style type="text/css">
-					body { font:12px Tahoma, Geneva, sans-serif; }
-				#div-head-tree-menu { width:230px; padding:10px 10px 10px 10px; text-align:center; background-color:#ddd; border:1px solid #ccc; border-bottom:5px solid #a8bfd7; }
-				#div-tree-menu { padding-left:20px; padding-bottom:10px; width:230px; background-color:#eee; overflow:hidden; border:1px solid #aaa; border-top:1px solid #FFF;   }
-
-				#tree-menu {  width:200px; float:left; margin:0; padding:0; margin-top:-1px;}
-				#tree-menu ul { margin:0; padding:8px;  }
-				#tree-menu li { list-style:none;  padding:8px; margin:0; }
-
-				#menu-lv1 { display:none; }
-				#menu-lv2 { display:none; }
-				#menu-lv3 { display:none; }
-				#menu-lv4 { display:none; }
-
-				a:link { text-decoration: none; color: #00F; }
-				a:visited { text-decoration: none; color: #0CF; }
-				a:hover { text-decoration: none; color: #F60; }
-				a:active { text-decoration: none; color: #F00; }
-				.txt-red { color:#F00 }
-				</style>
+					
 <script src="dist/libs/jquery.js"></script>
   <!-- 5 include the minified jstree source -->
   <script src="dist/jstree.min.js"></script>
